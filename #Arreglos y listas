@@ -1,1 +1,22 @@
 #Arreglos y listas
+#!/usr/bin/env python3
+#by hguzman@nesmorelia.unam.mx
+#Licence GNU/GPL ily rvpm <3
+#2023/10/30		
+
+#Posiciones especificas
+lista = [12,34,56,78,90]
+#ejercicio 23
+print(lista[3]) #cuarto elemento
+print(lista[-3]) #antepenultimo
+print(lista[len(lista)-3])  #antepenultimo
+
+#Slices
+xprint(lista[:3])
+#ejercicio 24
+print(lista[-5:])
+#ejercicio 25
+print(lista[::2])
+lista2=[446+213+50+389+347]
+promedio=
+import math
